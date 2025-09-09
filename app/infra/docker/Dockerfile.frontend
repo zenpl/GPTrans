@@ -1,0 +1,24 @@
+FROM node:18-alpine
+
+# Install dependencies only when needed
+RUN apk add --no-cache libc6-compat
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm ci --only=production
+
+# Copy source code
+COPY . .
+
+# Set environment
+ENV NEXT_TELEMETRY_DISABLED 1
+
+# Expose port
+EXPOSE 3000
+
+# Default command (overridden in docker-compose for development)
+CMD ["npm", "run", "dev"]

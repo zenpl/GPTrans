@@ -1,0 +1,287 @@
+{
+  "page": {
+    "index": 1,
+    "width": 1240,
+    "height": 1754,
+    "dpi": 150
+  },
+  "blocks": [
+    {
+      "id": "paragraph_4",
+      "type": "paragraph",
+      "bbox": {
+        "x": 120,
+        "y": 80,
+        "w": 480,
+        "h": 216
+      },
+      "order": 10,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 80, "w": 480, "h": 24 },
+          "text": "Schriften, auch \"Grotesk\" genannt. Diese",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 104, "w": 480, "h": 24 },
+          "text": "revolutionäre Entwicklung entstand aus dem",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 128, "w": 480, "h": 24 },
+          "text": "Bedürfnis nach klareren, funktionaleren",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 152, "w": 480, "h": 24 },
+          "text": "Schriftarten für die industrielle Kommunikation.",
+          "confidence": 0.97
+        },
+        {
+          "bbox": { "x": 120, "y": 176, "w": 480, "h": 24 },
+          "text": "William Caslon IV gilt als einer der ersten",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 120, "y": 200, "w": 480, "h": 24 },
+          "text": "Schriftgestalter, der bewusst auf Serifen",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 224, "w": 480, "h": 24 },
+          "text": "verzichtete (ca. 1816). Seine \"Egyptian\"",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 248, "w": 480, "h": 24 },
+          "text": "war jedoch noch nicht vollständig serifenlos.",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 272, "w": 480, "h": 24 },
+          "text": "Die ersten echten Groteskschriften entstanden",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "paragraph_5",
+      "type": "paragraph", 
+      "bbox": {
+        "x": 640,
+        "y": 80,
+        "w": 480,
+        "h": 192
+      },
+      "order": 20,
+      "lines": [
+        {
+          "bbox": { "x": 640, "y": 80, "w": 480, "h": 24 },
+          "text": "erst in der zweiten Hälfte des 19. Jahrhunderts.",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 640, "y": 104, "w": 480, "h": 24 },
+          "text": "Die Bauhaus-Bewegung des frühen 20. Jahrhunderts",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 640, "y": 128, "w": 480, "h": 24 },
+          "text": "revolutionierte das typografische Denken",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 640, "y": 152, "w": 480, "h": 24 },
+          "text": "grundlegend. Walter Gropius, László Moholy-Nagy",
+          "confidence": 0.97
+        },
+        {
+          "bbox": { "x": 640, "y": 176, "w": 480, "h": 24 },
+          "text": "und andere Pioniere propagierten eine funktionale,",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 640, "y": 200, "w": 480, "h": 24 },
+          "text": "ornamentlose Gestaltung². Jan Tschichold",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 640, "y": 224, "w": 480, "h": 24 },
+          "text": "formulierte in seinem Werk \"Die neue Typographie\"",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 640, "y": 248, "w": 480, "h": 24 },
+          "text": "(1928) die Prinzipien der modernen Schriftgestaltung.",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "heading_2",
+      "type": "heading",
+      "bbox": {
+        "x": 120,
+        "y": 360,
+        "w": 1000,
+        "h": 48
+      },
+      "order": 30,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 360, "w": 1000, "h": 48 },
+          "text": "Digitale Revolution und zeitgenössische Typografie",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "paragraph_6",
+      "type": "paragraph",
+      "bbox": {
+        "x": 120,
+        "y": 440,
+        "w": 1000,
+        "h": 144
+      },
+      "order": 40,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 440, "w": 1000, "h": 24 },
+          "text": "Die Einführung des Desktop-Publishing in den 1980er Jahren markierte einen weiteren Wendepunkt.",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 464, "w": 1000, "h": 24 },
+          "text": "Software wie PageMaker und QuarkXPress demokratisierten die Schriftgestaltung und ermöglichten",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 488, "w": 1000, "h": 24 },
+          "text": "es auch kleineren Unternehmen und Einzelpersonen, professionelle typografische Arbeiten zu",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 512, "w": 1000, "h": 24 },
+          "text": "erstellen. PostScript und TrueType revolutionierten die digitale Schriftdarstellung. Heute",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 536, "w": 1000, "h": 24 },
+          "text": "prägen Web-Technologien wie CSS und Variable Fonts die Zukunft der Typografie nachhaltig.",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 560, "w": 1000, "h": 24 },
+          "text": "OpenType-Features ermöglichen eine präzise Kontrolle über typografische Feinheiten.",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "figure_2", 
+      "type": "figure",
+      "bbox": {
+        "x": 200,
+        "y": 640,
+        "w": 840,
+        "h": 400
+      },
+      "order": 50,
+      "lines": [
+        {
+          "bbox": { "x": 200, "y": 640, "w": 840, "h": 400 },
+          "text": "[DIAGRAMM: Zeitstrahl der typografischen Entwicklung von 1450 bis heute mit wichtigen Meilensteinen]",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "caption_2",
+      "type": "caption",
+      "bbox": {
+        "x": 200,
+        "y": 1060,
+        "w": 840,
+        "h": 72
+      },
+      "order": 60,
+      "lines": [
+        {
+          "bbox": { "x": 200, "y": 1060, "w": 840, "h": 24 },
+          "text": "Abbildung 2: Chronologische Darstellung wichtiger",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 200, "y": 1084, "w": 840, "h": 24 },
+          "text": "Entwicklungen in der Typografie von der Erfindung",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 200, "y": 1108, "w": 840, "h": 24 },
+          "text": "des Buchdrucks bis zur digitalen Ära.",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "footnote_2",
+      "type": "footnote",
+      "bbox": {
+        "x": 120,
+        "y": 1600,
+        "w": 1000,
+        "h": 48
+      },
+      "order": 70,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 1600, "w": 1000, "h": 24 },
+          "text": "² Moholy-Nagy, László: \"Malerei, Fotografie, Film\", Bauhaus-Bücher Band 8, München 1925.",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 120, "y": 1624, "w": 1000, "h": 24 },
+          "text": "Grundlagenwerk zur visuellen Gestaltung und experimentellen Typografie der Moderne.",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "page_number_2",
+      "type": "page-number", 
+      "bbox": {
+        "x": 580,
+        "y": 1700,
+        "w": 80,
+        "h": 24
+      },
+      "order": 80,
+      "lines": [
+        {
+          "bbox": { "x": 580, "y": 1700, "w": 80, "h": 24 },
+          "text": "— 28 —",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98
+    }
+  ],
+  "reading_order": [
+    "paragraph_4",
+    "paragraph_5", 
+    "heading_2",
+    "paragraph_6",
+    "figure_2",
+    "caption_2",
+    "footnote_2",
+    "page_number_2"
+  ]
+}

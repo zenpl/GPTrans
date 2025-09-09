@@ -1,0 +1,287 @@
+{
+  "page": {
+    "index": 0,
+    "width": 1240,
+    "height": 1754,
+    "dpi": 150
+  },
+  "blocks": [
+    {
+      "id": "heading_1",
+      "type": "heading",
+      "bbox": {
+        "x": 120,
+        "y": 80,
+        "w": 1000,
+        "h": 60
+      },
+      "order": 10,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 80, "w": 1000, "h": 60 },
+          "text": "Die Entwicklung der modernen Typografie",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "paragraph_1",
+      "type": "paragraph", 
+      "bbox": {
+        "x": 120,
+        "y": 180,
+        "w": 480,
+        "h": 240
+      },
+      "order": 20,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 180, "w": 480, "h": 24 },
+          "text": "Die Geschichte der Typografie ist eng mit der",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 204, "w": 480, "h": 24 },
+          "text": "Entwicklung der Drucktechnik verbunden.",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 228, "w": 480, "h": 24 },
+          "text": "Johannes Gutenberg revolutionierte im 15.",
+          "confidence": 0.97
+        },
+        {
+          "bbox": { "x": 120, "y": 252, "w": 480, "h": 24 },
+          "text": "Jahrhundert den Buchdruck durch die Erfindung",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 276, "w": 480, "h": 24 },
+          "text": "der beweglichen Lettern¹. Diese Innovation",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 300, "w": 480, "h": 24 },
+          "text": "ermöglichte die Massenproduktion von Büchern",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 120, "y": 324, "w": 480, "h": 24 },
+          "text": "und veränderte die europäische Kultur nachhaltig.",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 348, "w": 480, "h": 24 },
+          "text": "Die Verfügbarkeit gedruckter Texte förderte",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 372, "w": 480, "h": 24 },
+          "text": "die Alphabetisierung und den Wissenstransfer.",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 396, "w": 480, "h": 24 },
+          "text": "Gleichzeitig entstanden erste Standards für",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "paragraph_2", 
+      "type": "paragraph",
+      "bbox": {
+        "x": 640,
+        "y": 180,
+        "w": 480,
+        "h": 192
+      },
+      "order": 30,
+      "lines": [
+        {
+          "bbox": { "x": 640, "y": 180, "w": 480, "h": 24 },
+          "text": "In der Renaissance entstanden die ersten",
+          "confidence": 0.97
+        },
+        {
+          "bbox": { "x": 640, "y": 204, "w": 480, "h": 24 },
+          "text": "standardisierten Schriftformen. Die humanistische",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 640, "y": 228, "w": 480, "h": 24 },
+          "text": "Minuskel bildete die Grundlage für viele moderne",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 640, "y": 252, "w": 480, "h": 24 },
+          "text": "Schriftarten. Prominente Beispiele sind die",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 640, "y": 276, "w": 480, "h": 24 },
+          "text": "Schriften von Claude Garamond und Aldus",
+          "confidence": 0.97
+        },
+        {
+          "bbox": { "x": 640, "y": 300, "w": 480, "h": 24 },
+          "text": "Manutius, die bis heute als Vorbilder für",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 640, "y": 324, "w": 480, "h": 24 },
+          "text": "elegante Serifen-Schriften gelten. Die Entwicklung",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 640, "y": 348, "w": 480, "h": 24 },
+          "text": "von Kapitälchen und Ligaturen verbesserte",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "figure_1",
+      "type": "figure",
+      "bbox": {
+        "x": 320,
+        "y": 460,
+        "w": 600,
+        "h": 300
+      },
+      "order": 40,
+      "lines": [
+        {
+          "bbox": { "x": 320, "y": 460, "w": 600, "h": 300 },
+          "text": "[ABBILDUNG: Beispiel einer Gutenberg-Bibel mit charakteristischer Gothischer Textura-Schrift]",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "id": "caption_1",
+      "type": "caption",
+      "bbox": {
+        "x": 320,
+        "y": 780,
+        "w": 600,
+        "h": 48
+      },
+      "order": 50,
+      "lines": [
+        {
+          "bbox": { "x": 320, "y": 780, "w": 600, "h": 24 },
+          "text": "Abbildung 1: Ausschnitt aus der 42-zeiligen",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 320, "y": 804, "w": 600, "h": 24 },
+          "text": "Gutenberg-Bibel (ca. 1455). Die charakteristische",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "paragraph_3",
+      "type": "paragraph",
+      "bbox": {
+        "x": 120,
+        "y": 880,
+        "w": 1000,
+        "h": 168
+      },
+      "order": 60,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 880, "w": 1000, "h": 24 },
+          "text": "Das 18. Jahrhundert brachte weitere bedeutende Entwicklungen in der Typografie hervor.",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 904, "w": 1000, "h": 24 },
+          "text": "John Baskerville entwickelte verbesserte Drucktechniken und schuf Schriftarten mit erhöhtem",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 928, "w": 1000, "h": 24 },
+          "text": "Kontrast zwischen dicken und dünnen Strichen. Giambattista Bodoni und Firmin Didot prägten",
+          "confidence": 0.94
+        },
+        {
+          "bbox": { "x": 120, "y": 952, "w": 1000, "h": 24 },
+          "text": "den klassizistischen Stil, der durch geometrische Klarheit und mathematische Präzision",
+          "confidence": 0.95
+        },
+        {
+          "bbox": { "x": 120, "y": 976, "w": 1000, "h": 24 },
+          "text": "charakterisiert wurde. Diese sogenannten \"Didone\"-Schriften beeinflussten die Typografie",
+          "confidence": 0.93
+        },
+        {
+          "bbox": { "x": 120, "y": 1000, "w": 1000, "h": 24 },
+          "text": "bis ins 20. Jahrhundert hinein und finden auch heute noch breite Anwendung.",
+          "confidence": 0.96
+        },
+        {
+          "bbox": { "x": 120, "y": 1024, "w": 1000, "h": 24 },
+          "text": "Die Industrialisierung des 19. Jahrhunderts führte zur Entwicklung der ersten serifenlosen",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "footnote_1",
+      "type": "footnote",
+      "bbox": {
+        "x": 120,
+        "y": 1600,
+        "w": 800,
+        "h": 24
+      },
+      "order": 70,
+      "lines": [
+        {
+          "bbox": { "x": 120, "y": 1600, "w": 800, "h": 24 },
+          "text": "¹ Gutenberg, Johannes: \"42-zeilige Bibel\", Mainz 1454-1455. Erste bedeutende Anwendung der beweglichen Lettern in Europa.",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "page_number_1",
+      "type": "page-number",
+      "bbox": {
+        "x": 580,
+        "y": 1700,
+        "w": 80,
+        "h": 24
+      },
+      "order": 80,
+      "lines": [
+        {
+          "bbox": { "x": 580, "y": 1700, "w": 80, "h": 24 },
+          "text": "— 27 —",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98
+    }
+  ],
+  "reading_order": [
+    "heading_1",
+    "paragraph_1", 
+    "paragraph_2",
+    "figure_1",
+    "caption_1",
+    "paragraph_3",
+    "footnote_1",
+    "page_number_1"
+  ]
+}

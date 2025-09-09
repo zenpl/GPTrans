@@ -1,0 +1,21 @@
+src,tgt,case_sensitive,notes
+Typografie,字体排印学,false,Typography as a field of study
+Schrift,字体,false,Font or typeface
+Serifen,衬线,false,Serifs in typography
+serifenlos,无衬线,false,Sans-serif
+Schriftart,字体类型,false,Typeface or font family
+Drucktechnik,印刷技术,false,Printing technology
+bewegliche Lettern,活字,false,Movable type
+Buchdruck,书籍印刷,false,Book printing
+Renaissance,文艺复兴,true,Historical period
+Bauhaus,包豪斯,true,Design movement
+Desktop-Publishing,桌面出版,false,Desktop publishing
+Ligatur,连字,false,Ligature in typography
+Kapitälchen,小型大写字母,false,Small capitals
+Textura,哥特字体,false,Gothic script
+humanistische Minuskel,人文主义小写字母,false,Humanist minuscule
+Grotesk,无装饰体,false,Grotesque (sans-serif)
+PostScript,PostScript,true,Font technology
+TrueType,TrueType,true,Font technology
+OpenType,OpenType,true,Font technology
+Variable Fonts,可变字体,false,Variable font technology
